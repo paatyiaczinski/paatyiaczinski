@@ -1,7 +1,8 @@
-Welcome, I'm Patricia Iaczinski!
+<h3>Welcome, I'm Patricia Iaczinski! </h3>
 
 
 <div> 
+    <h4>Connect with me:</h4>
     <a href="https://www.linkedin.com/in/patricia-iaczinski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:patricia.iaczinski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
@@ -18,6 +19,7 @@ Welcome, I'm Patricia Iaczinski!
 </div>
   
   <div style="display: inline_block"><br>
+      <h4>Languages and Tools:</h4>
     <img align="center" alt="Paaty-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Paaty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Paaty-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
