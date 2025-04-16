@@ -1,36 +1,57 @@
-<h3 align="center" style="color:red;" >Welcome!</h3>
+<h1 align="center">👋 Hi there! I'm Patricia Iaczinski</h1>
+<h3 align="center">Data Analyst | Python • Power BI • SQL • Storytelling</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/patricia-iaczinski" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:patricia.iaczinski@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<div> 
-    <h4>Connect with me:</h4>
-    <a href="https://www.linkedin.com/in/patricia-iaczinski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:patricia.iaczinski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  </div>
-  
-  ##
+---
 
- 
- 
- <div>
-  <a href="https://github.com/paatyiaczinski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paatyiaczinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paatyiaczinski&layout=compact&langs_count=7&theme=dracula"/>
+### 🧭 About Me
+
+- 🎓 Passionate about transforming data into actionable insights  
+- 📊 I work with **Power BI**, **Python**, and **SQL** to solve real business challenges  
+- 🔍 Focused on storytelling, segmentation, and campaign performance analysis  
+- 📁 Building a portfolio with real case studies and clean documentation
+
+---
+
+### 🚀 Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="PowerBI" height="40" src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" height="40" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img align="center" alt="Excel" height="40" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-  
-  <div style="display: inline_block"><br>
-      <h4>Languages and Tools:</h4>
-    <img align="center" alt="Paaty-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Paaty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Paaty-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
-    <img align="center" alt="Paaty-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Paaty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paaty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paaty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Paaty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+
+---
+
+### 📚 Portfolio Highlights
+
+🟡 **[Marketing Performance Analysis](https://github.com/SEU-REPO/marketing-project)**  
+📈 Power BI • Python • ROI • Segmentation • RFM
+
+🟡 **[Store Sales Comparison](https://github.com/SEU-REPO/store-comparison-case)**  
+💰 Profitability • Product Mix • Custom DAX
+
+📁 See full portfolio → [github.com/paatyiaczinski](https://github.com/paatyiaczinski)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paatyiaczinski&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paatyiaczinski&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-  
- 
+---
 
+✨ Let’s connect and build something meaningful from data!
